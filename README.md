@@ -8,18 +8,28 @@ This is primarily a learning project, giving me an opportunity to experiment wit
 
 ## Initial features
 Create, edit and delete questions
+
 Organise questions by topic
+
 Record notes and findings
+
 Give questions a state - to be explored, exploring, explored
+
 Browse and search previous explorations
 
 ## Technical interests
 Some areas I'd like to explore while developing this application:
+
 Angular and TypeScript.
+
 Component architecture and shared state management.
+
 Application configuration and environment variables.
+
 Infrastructure as code with Terraform.
+
 Secrets management with SOPS.
+
 These are areas of interest, not fixed technical requirements.
 
 ## Development approach
